@@ -1,9 +1,9 @@
 //
-//  AppDelegate.h
+//  SoundTouchObj.m
 //  SoundTouchDemo
 //
-//  Created by hejinlai on 13-6-9.
-//  Copyright (c) 2013年 yunzhisheng. All rights reserved.
+//  Created by chuliangliang on 14-5-19.
+//  Copyright (c) 2014年 ios. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
